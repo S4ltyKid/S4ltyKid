@@ -31,6 +31,6 @@
 
 ## 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krizzh-sriskantharajah-1171aa299/)  
-[![Email](https://img.shields.io/badge/Email-krizzh03@gmail.com-blue?logo=gmail&logoColor=white)](mailto:darksea95524@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-darksea95524@gmail.com-blue?logo=gmail&logoColor=white)](mailto:darksea95524@gmail.com)  
 
 ⚡ *“I build things that break things — so we can fix them better.”*  
