@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Krizzh Sriskantharajah  
+# 👋 Hey, I’m Ahmad Cheikh Khamis
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=435&lines=Cybersecurity+%7C+Software+Dev;Always+Breaking+%26+Fixing;Work+Experience+Wanted!)](https://git.io/typing-svg)
 
